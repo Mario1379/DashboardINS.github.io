@@ -1,0 +1,28 @@
+*{
+ padding: 10px;
+ margin: 30 ;
+ background-color: rgb(228, 228, 232);
+ margin: 5px;
+
+  
+}
+fieldset{
+  margin-bottom: px;
+}
+legend{
+  border: solid 1px #b5d5f8;
+  padding: 5px;
+  font-weight: bold;
+  background: #cccccc;
+  border-radius: 15px;
+}
+#mifoto{
+  border: solid 2px;
+  margin: 10px;
+  border-radius: 15px;
+  
+}
+body{
+  background-image: url(imag.jpg);
+  
+}
